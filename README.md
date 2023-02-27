@@ -1,4 +1,4 @@
-# Hello, my name is Vinicius, please call me Braz it's easy to pronounce !
+# Hello, my name is Vinicius, please call me Braz it's easy to pronounce
 ## Hello, Devs!!
 ## Welcome to my perfil of GitHub 👋
 
