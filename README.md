@@ -6,7 +6,6 @@
 - 🌱 I am currently studying frontend and backend
 - 👯 My dream is to collaborate with Apple
 - 🤔 I'm looking for help with the internet
-- 📫 Como entrar em contato comigo: viniciusbatistabraz@gmail.com
 - 😄 Pronomes: He
 
 ## Tools and Technologies
